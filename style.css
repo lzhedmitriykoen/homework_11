@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.task_1{
+text-align: center;
+}
+.task_3{
+    text-align: center;
+}
+
+.task_2{
+    text-align: center;
+}
+
+.task_4{
+    text-align: center;
+}
+
+button {
+    font-size: 1.1em;
+    background-color: #EBF5FF;
+    color: #4312AE;
+    border: 2px solid black;
+
+}
